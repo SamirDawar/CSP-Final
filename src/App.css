@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Title{
+    padding-top: 20px;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(241, 224, 224);
+}
+
+.titleText{
+    text-align: center;
+}
