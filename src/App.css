@@ -3,13 +3,21 @@
     padding: 0px;
 }
 
+/* Title component Styling*/
+
 .Title{
     padding-top: 20px;
     width: 100%;
     height: 60px;
-    background-color: rgb(241, 224, 224);
+    background-color: rgb(242, 232, 232);
 }
 
 .titleText{
     text-align: center;
+}
+
+/*Styling for the search bar*/
+
+.searchBar{
+    
 }

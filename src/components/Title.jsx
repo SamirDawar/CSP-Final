@@ -5,7 +5,7 @@ export default function Title(){
     return(
         <div className="Title">
             <h1 className="titleText">
-                Sign Language Translator
+                ASL Sign Language Translator
             </h1>
         </div>
     )
