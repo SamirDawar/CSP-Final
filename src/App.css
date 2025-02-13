@@ -18,6 +18,15 @@
 
 /*Styling for the search bar*/
 
-.searchBar{
-    
+.SearchBarInput{
+    display: block;
+    margin: 20px auto;
+
+    width: 40%;
+    height: 20px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.buttonGrid{
+
 }
